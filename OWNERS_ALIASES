@@ -169,6 +169,9 @@ aliases:
     - mrerlison
     - stormqueen1990
     - yagonobre
+    - ricardoamaro
+  sig-docs-pt-pt-owners: # PR reviews for Portugese from Portugal content
+    - ricardoamaro
   sig-docs-vi-owners: # Admins for Vietnamese content
     - huynguyennovem
     - truongnh1992
