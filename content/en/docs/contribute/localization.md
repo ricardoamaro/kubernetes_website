@@ -349,7 +349,7 @@ create a subfolder under the `content/de/` folder and copy the English source:
 
 ```shell
 mkdir -p content/de/docs/tutorials
-cp content/en/docs/tutorials/kubernetes-basics.md content/de/docs/tutorials/kubernetes-basics.md
+cp -ra content/en/docs/tutorials/kubernetes-basics/ content/de/docs/tutorials/
 ```
 
 Translation tools can speed up the translation process. For example, some
